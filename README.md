@@ -35,11 +35,9 @@ Built with **C#**, **WinForms**, **SQL Server** and **ADO.NET**.
 
 ## 📸 Screenshots
 
-> Add your screenshots to a `docs/` folder and update the paths below.
-
 | Products | Reports |
 |---|---|
-| ![Products](docs/products.png) | ![Reports](docs/reports.png) |
+| ![Products](Docs/products.png) | ![Reports](Docs/reports.png) |
 
 ## 🚀 Getting Started
 
