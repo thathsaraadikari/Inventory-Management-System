@@ -37,7 +37,7 @@ Built with **C#**, **WinForms**, **SQL Server** and **ADO.NET**.
 
 | Products | Reports |
 |---|---|
-| ![Products](Docs/products.png) | ![Reports](Docs/reports.png) |
+| ![Products](screenshots/products.png) | ![Reports](screenshots/reports.png) |
 
 ## 🚀 Getting Started
 
